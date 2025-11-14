@@ -1,6 +1,6 @@
 # Card Reaper by john9francis
 
-
+- ![](cover-photo.png)
 
 Check it out on [itch!](https://john9francis.itch.io/card-reaper)
 
